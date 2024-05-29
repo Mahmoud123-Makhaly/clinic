@@ -1,0 +1,84 @@
+{
+  "Index": {
+    "site": "العقارات"
+  },
+  "COMP_LoginForm": {
+    "GREETING": "مرحباً",
+    "LOGIN": "تسجيل الدخول",
+    "EMAIL": "البريد الإلكتروني",
+    "PASSWORD": "كلمة المرور",
+    "INVALID_EMAIL": "يرجى إدخال عنوان بريد إلكتروني صالح",
+    "REQUIRED_EMAIL": "يرجى إدخال عنوان بريد إلكتروني ",
+    "REQUIRED_PASSWORD": "يرجى إدخال كلمة المرور",
+    "REMEMBER_ME": "تذكرني ؟",
+    "DID_FORGOT_PASSWORD": "هل نسيت كلمة  المرور؟",
+    "DONT_HAVE_EMAIL": "ليس لديك حساب؟",
+    "SIGNUP": " إنشاء حساب جديد",
+    "GENERIC_ERR_MSG": "عذرًا! حدث خطأ ما. الرجاء المحاولة مرة أخرى لاحقًا.",
+    "INVALID_EMAIL_OR_PASSWORD": "البريد الإلكتروني/كلمة المرور غير صالح.",
+    "PLEASE_ENTER_YOUR_DETAILS": "الرجاء إدخال تفاصيلك لتسجيل الدخول",
+    "LOGIN_IN_WITH": "تسجيل الدخول بواسطة",
+    "PHONE": "رقم الهاتف",
+    "SocialLogin": {
+      "OR": "أو",
+      "FACEBOOK_LOGIN": "تسجيل دخول بفيس بوك",
+      "GOOGLE_LOGIN": "تسجيل دخول بجوجل"
+    },
+    "USER_NAME": "اسم المستخدم "
+  },
+
+  "COMP_Header": {
+    "HOME": "الرئيسية",
+    "APPOINTMENTS": "المواعيد",
+    "LIST": "القائمة",
+    "LOGIN": "تسجيل الدخول",
+    "PROPERTIES": "ملكيات",
+    "CITIES": "المدن",
+    "PROJECTS": "المشاريع",
+    "UNITS": "الوحدات"
+  },
+  "COMP_Custom404": {
+    "NOT_FOUND_MESSAGE": "الصفحة غير موجودة",
+    "BACK_TO_HOME": "العودة الي الصفحة الرئيسية"
+  },
+
+  "COMP_Footer": {
+    "SUBSCRIBE": "اشترك للحصول على عروض حصرية، بدون رسائل غير مرغوب فيها، وبدون إهدار.",
+    "ALL": "الكل",
+    "HOME": "الرئيسية",
+    "SERVICES": "الخدمات",
+    "PRODUCTS": "المنتجات",
+    "MATERIALS": "المواد",
+    "PRICING": "الأسعار",
+    "CONTACT_US": "اتصل بنا",
+    "HELP": "المساعدة",
+    "FOLLOW_US": "تابعنا",
+    "LINKS": "تواصل معنا",
+    "FAQ": "التعليمات",
+    "ABOUT_US": "معلومات عنا"
+  },
+
+  "COMP_RELATED_LISTINGS": {
+    "RELATED_LISTINGS": "قوائم ذات صلة"
+  },
+  "COMP_SignUpForm": {
+    "FIRST_NAME": "الاسم الاوب",
+    "LAST_NAME": "   الاسم الاخير    ",
+    "EMAIL": "   الايميل",
+    "PASSWORD": "الرقم السري",
+    "PHONE_NUMBER": " رقم الهاتف  ",
+    "DATE_OF_BIRTH": " تاريخ الميلاد    ",
+    "REQUIRED_FIRST_NAME": "الاسم الاول مطلوب ",
+    "REQUIRED_LAST_NAME": "الاسم الاخير مطلوب ",
+    "INVALID_EMAIL": "يرجى إدخال عنوان بريد إلكتروني صالح",
+    "REQUIRED_EMAIL": "يرجى إدخال عنوان بريد إلكتروني ",
+    "REQUIRED_PASSWORD": "يرجى إدخال كلمة المرور",
+    "REQUIRED_PHONE_NUMBER": "رقم الهاتف مطلوب",
+    "REQUIRED_DATE_OF_BIRTH": "تاريخ الميلاد مطلوب",
+    "SIGNUP": "انشاء حساب",
+    "HAVE_AN_ACCOUNT": "لديك حساب ؟",
+    "LOGIN": "تسجيل الدخول",
+    "USER_NAME": "اسم المستخدم ",
+    "REQUIRED_USERNAME": "برجاء ادخال اسم المستخدم"
+  }
+}

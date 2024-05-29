@@ -1,0 +1,52 @@
+.our-team {
+  .team-card {
+    .dark_overlay {
+      background: rgba(0, 0, 0, 0.2);
+      top: 0;
+
+      left: 0;
+      bottom: 0;
+      width: 100%;
+    }
+
+    
+  }
+}
+.prices {
+  .main-swiper.long-arrow {
+    .swiper-button-prev,
+    .swiper-button-next {
+      background-color: transparent !important;
+      &::after {
+        content: '\f138' !important;
+
+        font-family: 'Font Awesome 5 Free';
+        font-weight: 900;
+      }
+    }
+    .swiper-button-next {
+      &::after {
+        content: '\f137' !important;
+      }
+    }
+  }
+  .swiper {
+    padding-bottom: 0 !important;
+  }
+}
+:dir(ltr) {
+  .prices {
+    .main-swiper.long-arrow {
+      .swiper-button-prev {
+        &::after {
+          content: '\f137' !important;
+        }
+      }
+      .swiper-button-next {
+        &::after {
+          content: '\f138' !important;
+        }
+      }
+    }
+  }
+}

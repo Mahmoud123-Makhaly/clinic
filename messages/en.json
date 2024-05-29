@@ -1,0 +1,79 @@
+{
+  "Index": {
+    "site": "Real estate"
+  },
+  "COMP_Header": {
+    "HOME": "Home",
+    "LIST": "List",
+    "APPOINTMENTS": "Appointments",
+    "LOGIN": "Login",
+    "PROPERTIES": "properties",
+    "CITIES": "Cities",
+    "PROJECTS": "Projects",
+    "UNITS": "Units"
+  },
+  "COMP_LoginForm": {
+    "GREETING": "Welcome Back!",
+    "LOGIN": "Login",
+    "EMAIL": "Email Address",
+    "PASSWORD": "Password",
+    "INVALID_EMAIL": "Invalid Email Address",
+    "REQUIRED_EMAIL": "Required Email",
+    "REQUIRED_PASSWORD": "Required Password",
+    "REMEMBER_ME": "Remember me",
+    "DID_FORGOT_PASSWORD": "forget password?",
+    "DONT_HAVE_EMAIL": "Don't have account ?",
+    "SIGNUP": "Register",
+    "GENERIC_ERR_MSG": "Oops! Something went wrong. Please try again later.",
+    "INVALID_EMAIL_OR_PASSWORD": "The email/password couple is invalid.",
+    "HAVE_ACCOUNT": "Create a new account?",
+    "PLEASE_ENTER_YOUR_DETAILS": "Please enter your details",
+    "LOGIN_IN_WITH": "Login with",
+    "PHONE": "Phone",
+    "SocialLogin": {
+      "OR": "Or",
+      "FACEBOOK_LOGIN": "Login with Facebook",
+      "GOOGLE_LOGIN": "Login with Google"
+    },
+    "SIGN_UP": "Sign Up",
+    "USER_NAME": " User Name  "
+  },
+
+  "COMP_Custom404": {
+    "NOT_FOUND_MESSAGE": "PAGE NOT FOUND",
+    "BACK_TO_HOME": "Back to Home page"
+  },
+
+  "COMP_Footer": {
+    "SUMMARY": "Our highly skilled technicians will meticulously scuff away grease deposits and make certain that all waste is pumped out completely.",
+    "LINKS": "Quick Links",
+    "ABOUT_US": "About Us",
+    "FAQ": "FAQ",
+    "CONTACT_US": "Contact us",
+    "FOLLOW_US": "Follow Us"
+  },
+
+  "COMP_RELATED_LISTINGS": {
+    "RELATED_LISTINGS": "Related Listings"
+  },
+  "COMP_SignUpForm": {
+    "FIRST_NAME": " First Name  ",
+    "LAST_NAME": "  Last Name  ",
+    "EMAIL": "Email Address",
+    "PASSWORD": "Password",
+    "PHONE_NUMBER": "Phone Number",
+    "DATE_OF_BIRTH": "Date Of Birth",
+    "REQUIRED_FIRST_NAME": "First Name Is Required",
+    "REQUIRED_LAST_NAME": "Last Name Is Required",
+    "INVALID_EMAIL": "Invalid Email Address",
+    "REQUIRED_EMAIL": "Required Email",
+    "REQUIRED_PASSWORD": "Required Password",
+    "REQUIRED_PHONE_NUMBER": "Phone Number Is Required",
+    "REQUIRED_DATE_OF_BIRTH": "Date Of Birth Is Required",
+    "SIGNUP": "Register",
+    "HAVE_AN_ACCOUNT": "Have An Account",
+    "LOGIN": "Login",
+    "USER_NAME": " User Name  ",
+    "REQUIRED_USERNAME": "User Name Is Required"
+  }
+}
